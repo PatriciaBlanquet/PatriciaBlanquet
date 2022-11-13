@@ -1,8 +1,8 @@
-- 👋  ¡Hola! soy Nelly Blanquet
-- 👀  En este momento estoy interesada en subir cerros 🧗🏽‍♀️ y aprender a programar 👩🏽‍💻
-- 🌱  Actualmente estoy aprendiendo Python 🐍
-- 💞️  Espero colaborar en proyectos desafiantes pero padrísimos.
-- 📫  Me encuentras aquí 🤓
+- 👋  Hello! I'm Patricia Blanquet
+- 👀  I'm currently interested in climbing hills 🧗🏽♀️ and learning programming 👩🏽💻
+- 🌱  I am currently learning Python 🐍
+- 💞️  I hope to collaborate on challenging but cool projects.
+- 📫  You can find me here
 
 <!---
 PatriciaBlanquet/PatriciaBlanquet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
