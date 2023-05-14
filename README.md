@@ -1,6 +1,6 @@
 - 👋  Hello! I'm Patricia Blanquet
 - 👀  I'm currently interested in climbing hills 🧗🏽♀️ and learning programming 👩🏽💻
-- 🌱  I am currently learning Python 🐍
+- 🌱  I am currently learning HTML and Python 🐍
 - 💞️  I hope to collaborate on challenging but cool projects.
 - 📫  You can find me here
 
